@@ -232,7 +232,7 @@ Let's now change our recently automated release from _draft_ to _latest release_
 
 
 <!--Step 6-->
-<details id=6 open>
+<details id=6>
 <summary><h2>Step 6: Commit a hotfix to the release</h2></summary>
 
 ### Thanks for the merge :tada:
@@ -265,7 +265,7 @@ Submit a hotfix by approving and merging the pull request.
 
 
 <!--Step 7-->
-<details id=7>
+<details id=7 open>
 <summary><h2>Step 7: Create release v1.0.1</h2></summary>
 
 ### A final release
