@@ -76,7 +76,7 @@ Before using a release based workflow for a larger release, let's create a tag a
 
 
 <!--Step 2-->
-<details id=2 open>
+<details id=2>
 <summary><h2>Step 2: Add a new feature to the release branch</h2></summary>
 
 _You created a beta release! :tada:_
@@ -127,7 +127,7 @@ Merge this feature pull request so that you can open the release pull request as
 
 
 <!--Step 3-->
-<details id=3>
+<details id=3 open>
 <summary><h2>Step 3: Open a release pull request</h2></summary>
 
 _Nice work adding a new feature to the release branch :sparkles:_
